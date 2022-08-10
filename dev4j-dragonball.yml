@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: dev4j-dragon-ball
+application:
+  name: dev4j-dragon-ball
