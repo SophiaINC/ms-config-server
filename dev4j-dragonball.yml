@@ -1,2 +1,3 @@
-application:
-  name: Dev4j default configuration
+spring:
+  application:
+    name: dev4j-dragon-ball
