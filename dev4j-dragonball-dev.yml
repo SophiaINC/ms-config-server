@@ -1,2 +1,3 @@
-appication:
-  name: Dev4j develop config
+spring:
+  application:
+    name: dev4j-dragon-ball
